@@ -1,8 +1,5 @@
-# 08/17, self study
 
----
-
-## Binary Search Tree
+# Binary Search Tree
 
 - 해당 자료구조가 나온 이유
     1. To store information with hierarchy, such as file system
@@ -17,7 +14,7 @@
     - DFS : [http://upload.wikimedia.org/wikipedia/commons/7/7f/Depth-First-Search.gif](http://upload.wikimedia.org/wikipedia/commons/7/7f/Depth-First-Search.gif)
     - BFS : [https://upload.wikimedia.org/wikipedia/commons/5/5d/Breadth-First-Search-Algorithm.gif](https://upload.wikimedia.org/wikipedia/commons/5/5d/Breadth-First-Search-Algorithm.gif)
 
-    ### BST, 그리고 DFS 와 BFS 의 구현
+    ## BST, 그리고 DFS 와 BFS 의 구현
 
     - pseudo code
 
@@ -82,7 +79,7 @@
 
     ```
 
-    구현해야 할 클래스와 메서드, 그리고 함수는 다음과 같다
+    ## 구현해야 할 클래스와 메서드, 그리고 함수
 
     - `Tree` class
         - 기본값인 `value`를 가진다
